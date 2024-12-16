@@ -154,7 +154,7 @@ Make sure the required files (`SMDataRefined.csv` and `SMData.csv`) are present 
 1. Clone this repository:
    ```bash
    git clone https://github.com/sajitheranda/Fuzzy-Clustering.git
-   cd <repository_folder>
+   cd Fuzzy-Clustering
    ```
 2. Install dependencies:
    ```bash
